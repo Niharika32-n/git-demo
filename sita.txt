@@ -1,0 +1,8 @@
+ proposes an encryption-and-compression-based technique for medical images. First, chaos-based encryption is used
+ to encrypt the image, then the encrypted image is downsampled using lossy compression. Meanwhile, a customised deep learning
+ model is adopted to reconstruct the image, thereby reducing the memory and bandwidth cost and improving the security of the
+ medical images. The assessment of the proposed algorithm was conducted in terms of perceptual quality analysis, key space analysis,
+ differential and statistical analysis, execution time and resistance to noise attack. The experimental results showed that the proposed
+ algorithm was able to achieve superior performance compared with existing methods. In future, we will further explore the proposed
+ method for other media applications. The 3D models security can be explore in addition to the 2D media security needs to be
+ addressed in further study
